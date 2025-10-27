@@ -43,4 +43,3 @@
 
 ##
 
-![snake gif](https://github.com/TharlisonSivla/TharlisonSilva/blob/output/github-contribution-grid-snake.svg)
